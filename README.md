@@ -1,0 +1,2 @@
+# MinecraftEasy
+Hey!
